@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
+I'm Ivana Sankovic, a Full Stack Developer with a passion for building beautiful and functional web applications. I have experience working with a variety of technologies including:
+
+✨  - **Frontend**: React, HTML, CSS, JavaScript, Bootstrap, SASS
+
+✨  - **Backend**: Node.js, Express, DynamoDB, MySQL
+
+✨  - **Tools and Platforms**: Git, GitHub, VS Code
+
+
+Thanks for stopping by!
 <!--
 **sankovicivana/sankovicivana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
