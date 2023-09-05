@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ivana Sankovic, a Full Stack Developer with a passion for building beautiful and functional web applications. I have experience working with a variety of technologies including:
+I'm Ivana Sekereš, a Full Stack Developer with a passion for building beautiful and functional web applications. I have experience working with a variety of technologies including:
 
 ✨  - **Frontend**: React, HTML, CSS, JavaScript, Bootstrap, SASS
 
