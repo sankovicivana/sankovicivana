@@ -9,17 +9,15 @@ I'm Ivana Sekereš, a Full Stack Developer with a passion for building beautiful
 ✨  - **Tools and Platforms**: Git, GitHub, VS Code
 
 
-Thanks for stopping by!
+
+**Technologies:** 
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 
-- ![Python Logo](path_to_python_logo.png) Python
-- ![Django Logo](path_to_django_logo.png) Django
-- ![React Logo](path_to_react_logo.png) React
 
-
+Thanks for stopping by!
 <!--
 **sankovicivana/sankovicivana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
