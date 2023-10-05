@@ -13,7 +13,7 @@ I'm Ivana Sekereš, a Full Stack Developer with a passion for building beautiful
 **Technologies:** 
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
+https://img.shields.io/badge/test-8A2BE2
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 
 
