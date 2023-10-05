@@ -16,6 +16,8 @@ I'm Ivana Sekereš, a Full Stack Developer with a passion for building beautiful
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 
 
+<img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" width="150" height="30" />
+
 Thanks for stopping by!
 <!--
 **sankovicivana/sankovicivana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
