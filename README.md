@@ -4,7 +4,7 @@ I'm Ivana Sekereš, a Full Stack Developer with a passion for building beautiful
 Currently in the process of transitioning my career towards DevOps.
 I have experience working with a variety of technologies including:
 
-✨  - **Frontend**: React, HTML, CSS, JavaScript, Bootstrap, SASS
+✨  - **Frontend**: ⚛️ React, HTML, CSS, JavaScript, Bootstrap, Tilwind CSS, SASS
 
 ✨  - **Backend**: Node.js, Express, DynamoDB, MySQL
 
