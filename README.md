@@ -19,6 +19,7 @@ I have experience working with a variety of technologies including:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 
+![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 Thanks for stopping by!
 <!--
