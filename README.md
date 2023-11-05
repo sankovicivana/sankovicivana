@@ -15,11 +15,28 @@ I have experience working with a variety of technologies including:
 
 
 **Technologies:** 
+## Skills & Technologies
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+- **Frontend:** 
+  - ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) HTML5
+  - ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) CSS3
+  - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+  - ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) React
+  - ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
+- **Backend:**
+  - ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+  - ![Express.js Icon](https://img.icons8.com/color/48/000000/express.png) Express.js
+  - ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+- **Databases:**
+  - ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql.png) MySQL
+  - ![DynamoDB Icon](https://img.icons8.com/color/48/000000/amazon-dynamodb.png) DynamoDB
+- **Version Control:**
+  - ![Git Icon](https://img.icons8.com/color/48/000000/git.png) Git
+  - ![GitHub Icon](https://img.icons8.com/ios/50/000000/github.png) GitHub
+- **Development Tools:**
+  - ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code.png) Visual Studio Code
+  - ![Postman Icon](https://img.icons8.com/color/48/000000/postman-api.png) Postman
 
-![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 Thanks for stopping by!
 <!--
