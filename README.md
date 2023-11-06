@@ -13,10 +13,8 @@ I have experience working with a variety of technologies including:
 ✨  - **Tools and Platforms**: Git, GitHub, VS Code
 
 
-
-**Technologies:** 
 ## Skills & Technologies
-![Java Icon](https://camo.githubusercontent.com/b3f1eddf3c48cfa61466c88f3dcf3f1b51616e2c8ff3447ac90c84f802545082/68747470733a2f2f696d672e736869656
+
 
 
 
