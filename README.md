@@ -2,7 +2,7 @@
 
 I'm Ivana Sekereš, a Full Stack Developer with a passion for building beautiful and functional web applications.
 
-🚀 Currently, making my way to DevOps. 
+
 
 
 ## Technologies
