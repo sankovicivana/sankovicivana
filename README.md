@@ -22,6 +22,7 @@ I'm Ivana Sekereš, a Full Stack Developer with a passion for building beautiful
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code Badge](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PHP](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=PHP&logoColor=white)
+![PHP](https://img.shields.io/badge/VS_Code+PHP-8000ff?style=for-the-badge&logo=php&logoColor=white)
+
 
 Thanks for stopping by!
